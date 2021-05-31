@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>kolay video dersleri</title>
+
+</head>
+
+<body bgcolor="999999">
+
+<table width="900" height="800" border="1" align="center" bgcolor="white">
+<tr>
+<td colspan="5" height="150"><img src="img/logo.png"/></td>
+</tr>
+<tr height="5">
+<td><a href="index.html">anasayfa</a></td>
+<td><a href="dersler.html">dersler</a></td><td><a href="hakkimda.html">hakkýmda</a></td>
+<td><a href="iletisim.html">iletisim</a></td><td width="400">&nbsp;</td>
+</tr>
+<tr>
+<td height="100" colspan="5" bgcolor="#ddd">burasý reklam alaný</td>
+</tr>
+<tr>
+<td colspan="5" >
+
+
+hakkýnda 
+
+20 yasýndayým oyun oynamayý severim okumuyorum
+calýsýyorum web site yapmayý seviyorum felan filan 
+zzzz eee hello
+
+
+ </td>
+</tr>
+
+</table>
+
+</body>
+
+
+
+</html>
